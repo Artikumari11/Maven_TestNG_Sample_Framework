@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Business Keeper - Ecommerce Platform -Tests" >
+
+	<listeners>
+		<listener class-name="com.businessKeeper.report.ExtentReporterNG" />
+	</listeners>
+
+	<test name="End to End Account registration process">
+		<classes>
+			<class name="com.businessKeeper.tests.registration.TC01_E2E_RegistrationProcess"/>
+		</classes>
+	</test>
+
+	<test name="Account registration with invalid email">
+		<classes>
+			<class name="com.businessKeeper.tests.registration.TC02_Invalid_Email"/>
+		</classes>
+	</test>
+
+	<test name="Place order from womens category">
+		<classes>
+			<class name="com.businessKeeper.tests.place_order.TC01_BuyFirstProductForWomenCategory"/>
+		</classes>
+	</test>
+
+	<test name="Place order from dresses category">
+		<classes>
+			<class name="com.businessKeeper.tests.place_order.TC02_BuyFirstProductForDressCategory"/>
+		</classes>
+	</test>
+
+	<test name="Place order from T-shirts category">
+		<classes>
+			<class name="com.businessKeeper.tests.place_order.TC03_BuyFirstProductForTShirtsCategory"/>
+		</classes>
+	</test>
+</suite>

@@ -1,0 +1,5 @@
+com\businessKeeper\tests\registration\TC02_Invalid_Email.class
+com\businessKeeper\tests\place_order\TC01_BuyFirstProductForWomenCategory.class
+com\businessKeeper\tests\place_order\TC03_BuyFirstProductForTShirtsCategory.class
+com\businessKeeper\tests\place_order\TC02_BuyFirstProductForDressCategory.class
+com\businessKeeper\tests\registration\TC01_E2E_RegistrationProcess.class

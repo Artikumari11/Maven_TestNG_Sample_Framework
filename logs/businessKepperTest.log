@@ -1,0 +1,165 @@
+13:47:29.593 [main] INFO  com.businessKeeper.base.BaseTest - **************************************************************************************
+13:47:29.600 [main] INFO  com.businessKeeper.base.BaseTest - Opening browser..
+13:47:29.851 [main] INFO  com.businessKeeper.pages.RegistrationPage - Initializing page objects of Registration page
+13:47:30.145 [main] INFO  com.businessKeeper.data.DataProvider - Email Id is - sel-test1603194450126@hotmail.com
+13:47:37.730 [main] INFO  com.businessKeeper.pages.RegistrationPage - Authentication page loaded
+13:47:41.423 [main] INFO  com.businessKeeper.pages.RegistrationPage - Registration page loaded
+13:47:41.480 [main] INFO  com.businessKeeper.pages.RegistrationPage - Verified email id 
+13:47:41.717 [main] INFO  com.businessKeeper.pages.RegistrationPage - Title selected - Mrs
+13:47:42.091 [main] INFO  com.businessKeeper.pages.RegistrationPage - Filled firstname - Kasey
+13:47:42.261 [main] INFO  com.businessKeeper.pages.RegistrationPage - Filled lastname - Lebsack
+13:47:42.302 [main] INFO  com.businessKeeper.data.DataProvider - Password is - plumB000GWGJK2
+13:47:42.513 [main] INFO  com.businessKeeper.pages.RegistrationPage - Filled password - plumB000GWGJK2
+13:47:42.816 [main] INFO  com.businessKeeper.pages.RegistrationPage - Filled company for address - Daugherty-Daugherty
+13:47:42.977 [main] INFO  com.businessKeeper.pages.RegistrationPage - Filled address line1 - 43
+13:47:43.207 [main] INFO  com.businessKeeper.pages.RegistrationPage - Filled address line2 - Suite 329
+13:47:43.407 [main] INFO  com.businessKeeper.pages.RegistrationPage - Filled city - Port Anita
+13:47:43.754 [main] INFO  com.businessKeeper.pages.RegistrationPage - Selected state - Alaska
+13:47:43.933 [main] INFO  com.businessKeeper.pages.RegistrationPage - Filled postcode - 36020
+13:47:44.115 [main] INFO  com.businessKeeper.pages.RegistrationPage - Selected country - United States
+13:47:44.258 [main] INFO  com.businessKeeper.pages.RegistrationPage - Filled additional info - Pallas
+13:47:44.495 [main] INFO  com.businessKeeper.pages.RegistrationPage - Filled Mobile no - 1-328-599-5648
+13:47:44.691 [main] INFO  com.businessKeeper.pages.RegistrationPage - Filled alias - home
+13:47:50.640 [main] INFO  com.businessKeeper.pages.RegistrationPage - Clicked on Register button
+13:47:51.169 [main] INFO  com.businessKeeper.base.BaseTest - Closing browser..
+13:48:06.377 [main] INFO  com.businessKeeper.base.BaseTest - **************************************************************************************
+13:48:06.377 [main] INFO  com.businessKeeper.base.BaseTest - Opening browser..
+13:48:06.602 [main] INFO  com.businessKeeper.pages.RegistrationPage - Initializing page objects of Registration page
+13:48:06.846 [main] INFO  com.businessKeeper.data.DataProvider - Email Id is - sel-test1603194486846@yahoo.com
+13:48:14.016 [main] INFO  com.businessKeeper.base.BaseTest - Closing browser..
+13:48:25.764 [main] INFO  com.businessKeeper.base.BaseTest - **************************************************************************************
+13:48:25.764 [main] INFO  com.businessKeeper.base.BaseTest - Opening browser..
+13:48:34.943 [main] INFO  com.businessKeeper.pages.RegistrationPage - Signed in to Account successfully
+13:48:41.980 [main] INFO  com.businessKeeper.pages.RegistrationPage - Women products page loaded successfully
+13:48:42.602 [main] INFO  com.businessKeeper.pages.RegistrationPage - Women products page is displayed
+13:48:46.026 [main] INFO  com.businessKeeper.pages.RegistrationPage - Added first product to cart
+13:48:50.335 [main] INFO  com.businessKeeper.pages.RegistrationPage - Shopping Cart summary page is displayed
+13:48:53.870 [main] INFO  com.businessKeeper.pages.RegistrationPage - Address page is displayed
+13:48:57.620 [main] INFO  com.businessKeeper.pages.RegistrationPage - Shipping page is displayed
+13:48:58.153 [main] INFO  com.businessKeeper.pages.RegistrationPage - Checked Terms of service
+13:49:03.615 [main] INFO  com.businessKeeper.pages.RegistrationPage - Payment page is displayed
+13:49:07.813 [main] INFO  com.businessKeeper.pages.RegistrationPage - Payment method selected -Cheque
+13:49:16.868 [main] INFO  com.businessKeeper.pages.RegistrationPage - Order placed successfully
+13:49:16.869 [main] INFO  com.businessKeeper.base.BaseTest - Closing browser..
+13:49:31.359 [main] INFO  com.businessKeeper.base.BaseTest - **************************************************************************************
+13:49:31.359 [main] INFO  com.businessKeeper.base.BaseTest - Opening browser..
+13:49:49.286 [main] INFO  com.businessKeeper.pages.RegistrationPage - Signed in to Account successfully
+13:49:53.978 [main] INFO  com.businessKeeper.pages.RegistrationPage - Dress products page loaded successfully
+13:49:54.581 [main] INFO  com.businessKeeper.pages.RegistrationPage - Dress products page is displayed
+13:49:57.757 [main] INFO  com.businessKeeper.pages.RegistrationPage - Added first product to cart
+13:50:00.805 [main] INFO  com.businessKeeper.pages.RegistrationPage - Shopping Cart summary page is displayed
+13:50:02.875 [main] INFO  com.businessKeeper.pages.RegistrationPage - Address page is displayed
+13:50:04.611 [main] INFO  com.businessKeeper.pages.RegistrationPage - Shipping page is displayed
+13:50:05.142 [main] INFO  com.businessKeeper.pages.RegistrationPage - Checked Terms of service
+13:50:07.231 [main] INFO  com.businessKeeper.pages.RegistrationPage - Payment page is displayed
+13:50:09.572 [main] INFO  com.businessKeeper.pages.RegistrationPage - Payment method selected -Cheque
+13:50:15.829 [main] INFO  com.businessKeeper.pages.RegistrationPage - Order placed successfully
+13:50:15.830 [main] INFO  com.businessKeeper.base.BaseTest - Closing browser..
+13:50:27.117 [main] INFO  com.businessKeeper.base.BaseTest - **************************************************************************************
+13:50:27.118 [main] INFO  com.businessKeeper.base.BaseTest - Opening browser..
+13:50:35.848 [main] INFO  com.businessKeeper.pages.RegistrationPage - Signed in to Account successfully
+13:50:39.332 [main] INFO  com.businessKeeper.pages.RegistrationPage - T-Shirt products page loaded successfully
+13:50:39.826 [main] INFO  com.businessKeeper.pages.RegistrationPage - T-Shirt products page is displayed
+13:50:41.770 [main] INFO  com.businessKeeper.pages.RegistrationPage - Added first product to cart
+13:50:46.718 [main] INFO  com.businessKeeper.pages.RegistrationPage - Shopping Cart summary page is displayed
+13:50:48.941 [main] INFO  com.businessKeeper.pages.RegistrationPage - Address page is displayed
+13:50:51.910 [main] INFO  com.businessKeeper.pages.RegistrationPage - Shipping page is displayed
+13:50:52.484 [main] INFO  com.businessKeeper.pages.RegistrationPage - Checked Terms of service
+13:50:54.308 [main] INFO  com.businessKeeper.pages.RegistrationPage - Payment page is displayed
+13:50:56.095 [main] INFO  com.businessKeeper.pages.RegistrationPage - Payment method selected -Bank
+13:50:58.579 [main] INFO  com.businessKeeper.pages.RegistrationPage - Order placed successfully
+13:50:58.579 [main] INFO  com.businessKeeper.base.BaseTest - Closing browser..
+13:51:00.129 [main] INFO  com.businessKeeper.report.ExtentReporterNG - Creating Extent Report...
+13:51:00.758 [main] INFO  com.businessKeeper.report.ExtentReporterNG - Report created!
+14:15:59.979 [main] INFO  com.businessKeeper.base.BaseTest - **************************************************************************************
+14:15:59.987 [main] INFO  com.businessKeeper.base.BaseTest - Opening browser..
+14:16:00.468 [main] INFO  com.businessKeeper.pages.RegistrationPage - Initializing page objects of Registration page
+14:16:00.893 [main] INFO  com.businessKeeper.data.DataProvider - Email Id is - sel-test1603196160872@gmail.com
+14:16:05.688 [main] INFO  com.businessKeeper.base.BaseTest - Closing browser..
+14:17:05.458 [main] INFO  com.businessKeeper.base.BaseTest - **************************************************************************************
+14:17:05.467 [main] INFO  com.businessKeeper.base.BaseTest - Opening browser..
+14:17:06.044 [main] INFO  com.businessKeeper.pages.RegistrationPage - Initializing page objects of Registration page
+14:17:06.493 [main] INFO  com.businessKeeper.data.DataProvider - Email Id is - sel-test1603196226477@hotmail.com
+14:17:15.737 [main] INFO  com.businessKeeper.base.BaseTest - Closing browser..
+14:17:58.923 [main] INFO  com.businessKeeper.base.BaseTest - **************************************************************************************
+14:17:58.933 [main] INFO  com.businessKeeper.base.BaseTest - Opening browser..
+14:17:59.400 [main] INFO  com.businessKeeper.pages.RegistrationPage - Initializing page objects of Registration page
+14:17:59.855 [main] INFO  com.businessKeeper.data.DataProvider - Email Id is - sel-test1603196279830@yahoo.com
+14:23:32.106 [main] INFO  com.businessKeeper.base.BaseTest - **************************************************************************************
+14:23:32.114 [main] INFO  com.businessKeeper.base.BaseTest - Opening browser..
+14:23:32.506 [main] INFO  com.businessKeeper.pages.RegistrationPage - Initializing page objects of Registration page
+14:23:32.957 [main] INFO  com.businessKeeper.data.DataProvider - Email Id is - sel-test1603196612946@gmail.com
+14:23:39.858 [main] INFO  com.businessKeeper.base.BaseTest - Closing browser..
+16:28:08.882 [main] INFO  com.businessKeeper.base.BaseTest - **************************************************************************************
+16:28:08.889 [main] INFO  com.businessKeeper.base.BaseTest - Opening browser..
+16:28:09.149 [main] INFO  com.businessKeeper.pages.RegistrationPage - Initializing page objects of Registration page
+16:28:09.478 [main] INFO  com.businessKeeper.data.DataProvider - Email Id is - sel-test1603204089467@yahoo.com
+16:28:12.004 [main] INFO  com.businessKeeper.pages.RegistrationPage - Authentication page loaded
+16:28:14.357 [main] INFO  com.businessKeeper.pages.RegistrationPage - Registration page loaded
+16:28:14.410 [main] INFO  com.businessKeeper.pages.RegistrationPage - Verified email id 
+16:28:14.589 [main] INFO  com.businessKeeper.pages.RegistrationPage - Title selected - Mr
+16:28:14.780 [main] INFO  com.businessKeeper.pages.RegistrationPage - Filled firstname - Arlie
+16:28:15.032 [main] INFO  com.businessKeeper.pages.RegistrationPage - Filled lastname - Gottlieb
+16:28:15.067 [main] INFO  com.businessKeeper.data.DataProvider - Password is - salmonB000KGCZ8O
+16:28:15.344 [main] INFO  com.businessKeeper.pages.RegistrationPage - Filled password - salmonB000KGCZ8O
+16:28:15.660 [main] INFO  com.businessKeeper.pages.RegistrationPage - Filled company for address - Emard, Emard and Emard
+16:28:15.800 [main] INFO  com.businessKeeper.pages.RegistrationPage - Filled address line1 - 860
+16:28:15.968 [main] INFO  com.businessKeeper.pages.RegistrationPage - Filled address line2 - Apt. 767
+16:28:16.160 [main] INFO  com.businessKeeper.pages.RegistrationPage - Filled city - South Moses
+16:28:16.403 [main] INFO  com.businessKeeper.pages.RegistrationPage - Selected state - Florida
+16:28:16.586 [main] INFO  com.businessKeeper.pages.RegistrationPage - Filled postcode - 07838
+16:28:16.793 [main] INFO  com.businessKeeper.pages.RegistrationPage - Selected country - United States
+16:28:16.943 [main] INFO  com.businessKeeper.pages.RegistrationPage - Filled additional info - Cronus
+16:28:17.118 [main] INFO  com.businessKeeper.pages.RegistrationPage - Filled Mobile no - 862-987-0890
+16:28:17.260 [main] INFO  com.businessKeeper.pages.RegistrationPage - Filled alias - home
+16:28:20.092 [main] INFO  com.businessKeeper.pages.RegistrationPage - Clicked on Register button
+16:28:20.903 [main] INFO  com.businessKeeper.base.BaseTest - Closing browser..
+16:28:36.518 [main] INFO  com.businessKeeper.base.BaseTest - **************************************************************************************
+16:28:36.519 [main] INFO  com.businessKeeper.base.BaseTest - Opening browser..
+16:28:36.677 [main] INFO  com.businessKeeper.pages.RegistrationPage - Initializing page objects of Registration page
+16:28:36.782 [main] INFO  com.businessKeeper.data.DataProvider - Email Id is - sel-test1603204116782@gmail.com
+16:28:41.572 [main] INFO  com.businessKeeper.base.BaseTest - Closing browser..
+16:28:54.151 [main] INFO  com.businessKeeper.base.BaseTest - **************************************************************************************
+16:28:54.151 [main] INFO  com.businessKeeper.base.BaseTest - Opening browser..
+16:28:58.221 [main] INFO  com.businessKeeper.pages.RegistrationPage - Signed in to Account successfully
+16:29:00.882 [main] INFO  com.businessKeeper.pages.RegistrationPage - Women products page loaded successfully
+16:29:01.513 [main] INFO  com.businessKeeper.pages.RegistrationPage - Women products page is displayed
+16:29:04.166 [main] INFO  com.businessKeeper.pages.RegistrationPage - Added first product to cart
+16:29:08.219 [main] INFO  com.businessKeeper.pages.RegistrationPage - Shopping Cart summary page is displayed
+16:29:11.719 [main] INFO  com.businessKeeper.pages.RegistrationPage - Address page is displayed
+16:29:14.040 [main] INFO  com.businessKeeper.pages.RegistrationPage - Shipping page is displayed
+16:29:14.607 [main] INFO  com.businessKeeper.pages.RegistrationPage - Checked Terms of service
+16:29:18.553 [main] INFO  com.businessKeeper.pages.RegistrationPage - Payment page is displayed
+16:29:21.330 [main] INFO  com.businessKeeper.pages.RegistrationPage - Payment method selected -Bank
+16:29:24.890 [main] INFO  com.businessKeeper.pages.RegistrationPage - Order placed successfully
+16:29:24.891 [main] INFO  com.businessKeeper.base.BaseTest - Closing browser..
+16:29:37.691 [main] INFO  com.businessKeeper.base.BaseTest - **************************************************************************************
+16:29:37.691 [main] INFO  com.businessKeeper.base.BaseTest - Opening browser..
+16:29:48.745 [main] INFO  com.businessKeeper.pages.RegistrationPage - Signed in to Account successfully
+16:29:51.794 [main] INFO  com.businessKeeper.pages.RegistrationPage - Dress products page loaded successfully
+16:29:52.271 [main] INFO  com.businessKeeper.pages.RegistrationPage - Dress products page is displayed
+16:29:53.668 [main] INFO  com.businessKeeper.pages.RegistrationPage - Added first product to cart
+16:29:58.151 [main] INFO  com.businessKeeper.pages.RegistrationPage - Shopping Cart summary page is displayed
+16:30:01.608 [main] INFO  com.businessKeeper.pages.RegistrationPage - Address page is displayed
+16:30:05.245 [main] INFO  com.businessKeeper.pages.RegistrationPage - Shipping page is displayed
+16:30:05.781 [main] INFO  com.businessKeeper.pages.RegistrationPage - Checked Terms of service
+16:30:09.474 [main] INFO  com.businessKeeper.pages.RegistrationPage - Payment page is displayed
+16:30:13.921 [main] INFO  com.businessKeeper.pages.RegistrationPage - Payment method selected -Cheque
+16:30:20.509 [main] INFO  com.businessKeeper.pages.RegistrationPage - Order placed successfully
+16:30:20.510 [main] INFO  com.businessKeeper.base.BaseTest - Closing browser..
+16:30:33.569 [main] INFO  com.businessKeeper.base.BaseTest - **************************************************************************************
+16:30:33.569 [main] INFO  com.businessKeeper.base.BaseTest - Opening browser..
+16:30:38.866 [main] INFO  com.businessKeeper.pages.RegistrationPage - Signed in to Account successfully
+16:30:41.291 [main] INFO  com.businessKeeper.pages.RegistrationPage - T-Shirt products page loaded successfully
+16:30:41.860 [main] INFO  com.businessKeeper.pages.RegistrationPage - T-Shirt products page is displayed
+16:30:43.684 [main] INFO  com.businessKeeper.pages.RegistrationPage - Added first product to cart
+16:30:45.892 [main] INFO  com.businessKeeper.pages.RegistrationPage - Shopping Cart summary page is displayed
+16:30:48.379 [main] INFO  com.businessKeeper.pages.RegistrationPage - Address page is displayed
+16:30:50.228 [main] INFO  com.businessKeeper.pages.RegistrationPage - Shipping page is displayed
+16:30:50.780 [main] INFO  com.businessKeeper.pages.RegistrationPage - Checked Terms of service
+16:30:52.513 [main] INFO  com.businessKeeper.pages.RegistrationPage - Payment page is displayed
+16:30:53.949 [main] INFO  com.businessKeeper.pages.RegistrationPage - Payment method selected -Bank
+16:30:56.144 [main] INFO  com.businessKeeper.pages.RegistrationPage - Order placed successfully
+16:30:56.145 [main] INFO  com.businessKeeper.base.BaseTest - Closing browser..
+16:30:58.009 [main] INFO  com.businessKeeper.report.ExtentReporterNG - Creating Extent Report...
+16:30:58.545 [main] INFO  com.businessKeeper.report.ExtentReporterNG - Report created!

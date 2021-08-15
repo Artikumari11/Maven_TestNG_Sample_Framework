@@ -1,0 +1,7 @@
+com\businessKeeper\pages\RegistrationPage.class
+com\businessKeeper\pages\BuyProductPage.class
+com\businessKeeper\util\TestUtil.class
+com\businessKeeper\data\DataProvider.class
+com\businessKeeper\base\BaseTest.class
+com\businessKeeper\report\ExtentReporterNG.class
+com\businessKeeper\pages\MyAccountPage.class
